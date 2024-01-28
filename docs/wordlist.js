@@ -1891,7 +1891,6 @@ var spaces = [1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 
 // Using to extract words into desired file format
 var content = "";
 arrayData.forEach((element) => {
-  element = element.toLowerCase();
   if (content === "") {
     content = element;
   } else {
