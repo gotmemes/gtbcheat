@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dmtcheat",
+  "name": "Draw My Thing Cheat",
+  "description": "Shows all available words for the current hint provided.",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "https://github.com/gotmemes/dmtcheat",
+  "updateUrl": "",
+  "authorList": ["GotMemes"],
+  "credits": "Croutonix for original DMT Cheat",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
