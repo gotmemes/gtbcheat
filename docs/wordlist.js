@@ -1005,6 +1005,7 @@ var arrayData = [
 	"Magnet",
 	"Magnifying Glass",
 	"Mail",
+	"Mail Box",
 	"Mailbox",
 	"Mailman",
 	"Makeup",
