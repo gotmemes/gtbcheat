@@ -1904,7 +1904,7 @@ console.log(" Writing into an file ");
   
 // Sample.txt is an empty file 
 fs.writeFile( 
-  "wordlist.txt", 
+  "wordlist.csv", 
   content, 
   function (err) { 
     if (err) { 
